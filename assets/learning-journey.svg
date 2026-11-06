@@ -3,8 +3,6 @@
   <rect width="1000" height="510" rx="16" fill="#30263D"/>
 
   <text x="30" y="52" fill="#F2E8D8" font-family="Georgia, serif" font-size="29">Learning Journey</text>
-  <text x="970" y="50" text-anchor="end" fill="#C5B4E8" font-family="Arial, sans-serif" font-size="13" letter-spacing="3">VOL. 01 ✧</text>
-  <text x="32" y="82" fill="#C5B4E8" font-family="Arial, sans-serif" font-size="12" letter-spacing="2">A CONTINUOUS PROCESS OF DISCOVERY</text>
   <path d="M30 100 H970" stroke="#C5B4E8" stroke-opacity=".35"/>
 
   <rect x="30" y="120" width="455" height="165" rx="10" fill="#49364F"/>
@@ -35,6 +33,4 @@
   <text x="540" y="410" fill="#F2E8D8" font-family="Arial, sans-serif" font-size="14">Compreensão dos ambientes que</text>
   <text x="540" y="430" fill="#F2E8D8" font-family="Arial, sans-serif" font-size="14">sustentam aplicações e automações.</text>
   <text x="540" y="453" fill="#E9A8C7" font-family="Arial, sans-serif" font-size="12">Linux  ·  Docker  ·  Servidores</text>
-
-  <text x="970" y="495" text-anchor="end" fill="#F2E8D8" font-family="Georgia, serif" font-style="italic" font-size="13">Curiosity is where everything begins. ♡</text>
 </svg>
