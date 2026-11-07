@@ -18,7 +18,7 @@
 
   <!-- Header details -->
   <path d="M50 34 H1150" stroke="#F2E8D8" opacity=".35"/>
-  <text x="52" y="61" fill="#F2E8D8" font-family="Arial" font-size="15" letter-spacing="4">01 — AREAS OF EXPLORATION</text>
+  <text x="52" y="61" fill="#F2E8D8" font-family="Arial" font-size="15" letter-spacing="4">01 — ÁREAS QUE ESTOU EXPLORANDO</text>
   <circle cx="1089" cy="48" r="5" fill="#D9A8BE"/>
   <circle cx="1107" cy="48" r="5" fill="#B9A4D5"/>
   <circle cx="1125" cy="48" r="5" fill="#E9D99B"/>
@@ -30,7 +30,7 @@
 
   <text x="82" y="145" fill="#F2C5D9" font-family="Georgia,serif" font-size="51">01</text>
   <text x="716" y="128" text-anchor="end" fill="#F2E8D8" font-family="Arial" font-size="15" letter-spacing="3">AUTOMATION</text>
-  <text x="82" y="218" fill="#FFF3E7" font-family="Georgia,serif" font-size="45">Connecting ideas.</text>
+  <text x="82" y="218" fill="#FFF3E7" font-family="Georgia,serif" font-size="45">Fluxos de Automação.</text>
   <text x="84" y="264" fill="#F2E8D8" font-family="Arial" font-size="22">Criação de fluxos automatizados e integração</text>
   <text x="84" y="294" fill="#F2E8D8" font-family="Arial" font-size="22">entre diferentes serviços.</text>
   <text x="84" y="333" fill="#F2C5D9" font-family="Arial" font-size="18" letter-spacing="1">n8n  /  APIs  /  Webhooks</text>
@@ -47,7 +47,7 @@
   <circle cx="1119" cy="119" r="5" fill="#E9D99B"/>
   <text x="805" y="145" fill="#754C75" font-family="Georgia,serif" font-size="51">02</text>
   <text x="805" y="180" fill="#49364F" font-family="Arial" font-size="14" letter-spacing="2">PROGRAMMING</text>
-  <text x="805" y="230" fill="#30263D" font-family="Georgia,serif" font-size="34">Building logic.</text>
+  <text x="805" y="230" fill="#30263D" font-family="Georgia,serif" font-size="34">Lógica de Programação.</text>
   <text x="805" y="270" fill="#49364F" font-family="Arial" font-size="19">Raciocínio lógico e</text>
   <text x="805" y="298" fill="#49364F" font-family="Arial" font-size="19">fundamentos da programação.</text>
   <text x="805" y="333" fill="#49364F" font-family="Arial" font-size="16">Python  /  Logic</text>
@@ -61,7 +61,7 @@
   <circle cx="453" cy="462" r="4" fill="#E9D99B"/>
   <text x="82" y="438" fill="#665477" font-family="Georgia,serif" font-size="51">03</text>
   <text x="82" y="478" fill="#49364F" font-family="Arial" font-size="14" letter-spacing="2">ARTIFICIAL INTELLIGENCE</text>
-  <text x="82" y="535" fill="#30263D" font-family="Georgia,serif" font-size="33">Exploring intelligence.</text>
+  <text x="82" y="535" fill="#30263D" font-family="Georgia,serif" font-size="33">Inteligência Artificial.</text>
   <text x="82" y="579" fill="#49364F" font-family="Arial" font-size="20">Sistemas inteligentes e soluções</text>
   <text x="82" y="608" fill="#49364F" font-family="Arial" font-size="20">baseadas em IA.</text>
   <text x="82" y="644" fill="#665477" font-family="Arial" font-size="16">AI  /  Intelligent Agents</text>
@@ -72,7 +72,7 @@
   <circle cx="1120" cy="412" r="5" fill="#E9D99B"/>
   <text x="608" y="438" fill="#557365" font-family="Georgia,serif" font-size="51">04</text>
   <text x="1117" y="422" text-anchor="end" fill="#49364F" font-family="Arial" font-size="14" letter-spacing="2">INFRASTRUCTURE</text>
-  <text x="608" y="515" fill="#30263D" font-family="Georgia,serif" font-size="39">The foundation behind it.</text>
+  <text x="608" y="515" fill="#30263D" font-family="Georgia,serif" font-size="39">Infraestrutura.</text>
   <text x="608" y="566" fill="#49364F" font-family="Arial" font-size="20">Conhecimento dos ambientes que sustentam</text>
   <text x="608" y="596" fill="#49364F" font-family="Arial" font-size="20">aplicações e automações.</text>
   <text x="608" y="644" fill="#557365" font-family="Arial" font-size="17">Linux  /  Docker  /  Servers</text>
